@@ -1,0 +1,27 @@
+img{
+    width: 200px;
+    height: 200px;
+    margin-left: 400px;
+}
+body{
+    background-color: #e8e8e8;
+}
+hr{
+    height:2px;border-width:0;
+    width: 20%;
+    color:gray
+    ;background-color:gray
+
+}
+h1{
+    margin-left: 650px;
+}
+h2{
+    margin-left: 650px;
+}
+.sd{
+    margin-left: 600px;
+}
+.cloud{
+    margin: 20px;
+}
